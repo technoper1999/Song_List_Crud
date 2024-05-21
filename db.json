@@ -1,0 +1,108 @@
+{
+  "song": [
+    {
+      "songname": "“Hey Jude”",
+      "songartist": "The Beatles",
+      "songdescription": "Released in 1968, “Hey Jude” is a timeless ballad that features Paul McCartney’s soulful vocals.",
+      "id": "ff9f"
+    },
+    {
+      "id": "8af3",
+      "songname": "“Bohemian Rhapsody” ",
+      "songartist": "Queen",
+      "songdescription": "This epic rock opera, released in 1975, defies categorization.",
+      "active": true
+    },
+    {
+      "id": "4cb3",
+      "songname": "“Billie Jean” ",
+      "songartist": "Michael Jackson",
+      "songdescription": "From his 1982 album “Thriller,” “Billie Jean” is a dance-pop masterpiece. ",
+      "active": true
+    },
+    {
+      "id": "5d4a",
+      "songname": "“Jailhouse Rock”",
+      "songartist": "Elvis Presley",
+      "songdescription": "A rock-and-roll anthem from 1957, “Jailhouse Rock” captures Presley’s energetic style.",
+      "active": true
+    },
+    {
+      "id": "3fa6",
+      "songname": "“Like a Prayer” ",
+      "songartist": "Madonna",
+      "songdescription": "Released in 1989, “Like a Prayer” is a powerful blend of pop, gospel, and controversy.",
+      "active": true
+    },
+    {
+      "id": "6e84",
+      "songname": "“Purple Rain”",
+      "songartist": "Prince",
+      "songdescription": "The title track from Prince’s 1984 album, “Purple Rain” is an emotional power ballad. ",
+      "active": true
+    },
+    {
+      "id": "2de6",
+      "songname": "“Space Oddity”",
+      "songartist": "David Bowie",
+      "songdescription": "Bowie’s 1969 hit “Space Oddity” takes listeners on a cosmic journey. ",
+      "active": true
+    },
+    {
+      "id": "3dca",
+      "songname": "“Stairway to Heaven” ",
+      "songartist": "Led Zeppelin",
+      "songdescription": "A rock epic from 1971, “Stairway to Heaven” is Led Zeppelin’s magnum opus.",
+      "active": true
+    },
+    {
+      "id": "619a",
+      "songname": "“Let It Be” ",
+      "songartist": "The Beatles",
+      "songdescription": "Released in 1970, “Let It Be” is a heartfelt ballad that reflects on acceptance and finding peace during challenging times.",
+      "active": true
+    },
+    {
+      "id": "8068",
+      "songname": "“We Will Rock You”",
+      "songartist": " Queen",
+      "songdescription": "A stadium anthem from 1977, “We Will Rock You” is all about audience participation. ",
+      "active": true
+    },
+    {
+      "id": "0680",
+      "songname": "“Thriller”",
+      "songartist": "Michael Jackson",
+      "songdescription": "The title track from Jackson’s 1982 album, “Thriller” is a spooky dance-pop masterpiece.",
+      "active": true
+    },
+    {
+      "id": "b848",
+      "songname": "“Love Me Tender” ",
+      "songartist": "Elvis Presley",
+      "songdescription": "A romantic ballad from 1956, “Love Me Tender” captures Presley’s tender side. ",
+      "active": true
+    },
+    {
+      "id": "cbe2",
+      "songname": "“Vogue”  ",
+      "songartist": "Madonna",
+      "songdescription": "From her 1990 album “I’m Breathless,” “Vogue” celebrates the art of posing and striking a pose. ",
+      "active": true
+    },
+    {
+      "id": "340f",
+      "songname": "“Like a Rolling Stone” ",
+      "songartist": "Bob Dylan",
+      "songdescription": "A revolutionary song from 1965, “Like a Rolling Stone” transformed folk music.",
+      "active": true
+    },
+    {
+      "id": "8ded",
+      "songname": "“When Doves Cry”",
+      "songartist": "Prince",
+      "songdescription": "The lead single from Prince’s 1984 album “Purple Rain,” “When Doves Cry” is a genre-defying track. ",
+      "active": true
+    }
+  ]
+}

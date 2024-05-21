@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'Pacifico';
+  src: local('Pacifico'), url(./font/Pacifico-Regular.ttf) format('truetype');
+}
